@@ -16,10 +16,10 @@ Left click + drag. To rotate on x and y axis
 Right click + drag. To rotate on z axis
 Mouse wheel - to scale the image to the appropriate size
 
-Developed by:
-Savva Krasnokutskii
+Developed by:                                                                                                                        
+Savva Krasnokutskii                                                                                
 
 Credits:
-Bro code - for java graphics tutorials and technical explanations.
-MeanRollerCoding - for 3D java rendering and proccesing guide.
-:Think Java" by Allen B Downey - for the clear explanation of how java works on a theoretical level.
+Bro code - for java graphics tutorials and technical explanations.                                                                                      
+MeanRollerCoding - for 3D java rendering and proccesing guide.                                                                                    
+Think Java" by Allen B Downey - for the clear explanation of how java works on a theoretical level.                                                                    
